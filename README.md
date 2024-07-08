@@ -1,4 +1,4 @@
-# Bharat-Intern-Task--1-Stock-price-prediction
+#Stock-price-prediction
 Overview
 This repository contains the code and resources for the "Stock Price Prediction" data science project completed during the Data Science internship with "BHARAT INTERN." The main objective of this project was to develop a machine learning model that predicts the future stock prices of a company based on historical stock market data.
 
